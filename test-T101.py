@@ -1,8 +1,8 @@
 #need a code to get a largest number in a array
 def largest_number(numbers):
-    """
-    Finds and returns the largest number in a given array.
-    """
+    
+    #Finds and returns the largest number in a given array.
+    
     # Parameters:
     # numbers (list): A list of numerical values.
 
