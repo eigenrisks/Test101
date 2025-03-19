@@ -7,6 +7,7 @@ def largest_number(numbers):
     # Parameters:
     # numbers (list): A list of numerical values.
     #Adding Changes 101-3
+    #Addition of the code for Vscode 101-4
     # Returns:
     # int/float: The largest number in the array.
 
